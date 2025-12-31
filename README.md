@@ -44,7 +44,7 @@ Compose** در اندروید پیاده‌سازی شده است.\
 ```{=html}
 <p align="center">
 ```
-`<img src="screenshots/calculator_preview.png" width="300"/>`{=html}
+`<img src="screenshots/calculator.png" width="300"/>`{=html}
 ```{=html}
 </p>
 ```
@@ -64,4 +64,4 @@ Compose - مدیریت State - طراحی UI در اندروید - پیاده‌
 
 ## 👤 توسعه‌دهنده
 
-Android Developer
+Alireza Halvaei Fard
